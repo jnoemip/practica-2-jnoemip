@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/practica-2-jnoemip/mlruns/0/5dbbde5ad3b843da9bb8a5cbddd41039/artifacts
+end_time: 1747444548620
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5dbbde5ad3b843da9bb8a5cbddd41039
+run_name: sneaky-hawk-938
+run_uuid: 5dbbde5ad3b843da9bb8a5cbddd41039
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747444545655
+status: 3
+tags: []
+user_id: Usuario

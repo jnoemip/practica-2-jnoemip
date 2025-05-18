@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/practica-2-jnoemip/mlruns/0/3526121c803843f788f7a5093b1068b2/artifacts
+end_time: 1747444518602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3526121c803843f788f7a5093b1068b2
+run_name: indecisive-colt-159
+run_uuid: 3526121c803843f788f7a5093b1068b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747444505516
+status: 3
+tags: []
+user_id: Usuario

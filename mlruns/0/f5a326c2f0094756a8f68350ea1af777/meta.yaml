@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/practica-2-jnoemip/mlruns/0/f5a326c2f0094756a8f68350ea1af777/artifacts
+end_time: 1747444603890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5a326c2f0094756a8f68350ea1af777
+run_name: welcoming-rook-914
+run_uuid: f5a326c2f0094756a8f68350ea1af777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747444603768
+status: 4
+tags: []
+user_id: Usuario
